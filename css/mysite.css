@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  text-align: center;
+
+
+}
+
+h1{
+  margin-top: 0;
+  font-size:3rem;
+  font-family:'Pacifico', cursive;
+  color:#66BFBF
+}
+h2{
+  color: #66BFBF
+}
+.top-container{
+  background-color:#CFF5E7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 400px;
+  top:300px;
+}
+.top-cloud{
+  position:relative;
+  left: 200px;
+  margin-left:100px;
+  top: 60px;
+}
+.mountain{
+  bottom:0px;
+  position: relative;
+  margin:0;
+}
+.personal-image{
+  width:300px;
+  height: 300px;
+  margin-left: 200px;
+  position: relative;
+  top:10px;
+}
+.gif-image{
+  width:400px;
+  height: 400px;
+}
+.mountain{
+  width:700px;
+  height:500px;
+}
+.form{
+  background-color: skyblue;
+
+}
