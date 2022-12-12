@@ -21,7 +21,7 @@ h2{
 }
 
 .bottom-cloud{
-  position:absolute;
+  position:relative;
   left: 400px;
   top:300px;
 }
